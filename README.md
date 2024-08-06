@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
@@ -39,5 +40,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
