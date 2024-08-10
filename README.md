@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
@@ -53,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -134,4 +137,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
