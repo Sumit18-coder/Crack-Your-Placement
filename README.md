@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -69,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -165,4 +167,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0908-middle-of-the-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
