@@ -11,18 +11,18 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-            if (head == null || head.next == null) {
-            return false;
+        ListNode slowPtr = head;
+        ListNode fastPtr = head;
+
+        while(slowPtr != null && fastPtr != null && fastPtr.next != null){
+            slowPtr = slowPtr.next;
+            fastPtr = fastPtr.next.next;
+
+            //if they meet then there is a loop
+            if( slowPtr == fastPtr){
+                return true;
+            } 
         }
-        ListNode slow = head;
-        ListNode fast = head.next;
-        while (slow != fast) {
-            if (fast == null || fast.next == null) {
-                return false;
-            }
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return true; 
+        return false;
     }
 }
