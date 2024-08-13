@@ -176,6 +176,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
@@ -186,4 +187,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
