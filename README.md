@@ -149,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -199,4 +201,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0203-remove-linked-list-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
