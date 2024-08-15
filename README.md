@@ -153,10 +153,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -212,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
