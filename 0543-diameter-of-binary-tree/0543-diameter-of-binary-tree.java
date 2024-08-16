@@ -15,25 +15,34 @@
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        int diameter[] = new int[1];
-        height(root,diameter);
-        return diameter[0];
-    }
+        Map<TreeNode, Integer> map = new HashMap<>();
+        Stack<TreeNode> stack = new Stack<>();
+        int diameter = 0;
 
-    public int height(TreeNode root, int diameter[]){
+        if(root != null)
+            stack.push(root);
         
-        if(root == null){
-            return 0;
+        while(!stack.isEmpty()){
+            TreeNode node = stack.peek();
+
+            //fill up stack to perform post-order traversal
+            if(node.left != null && !map.containsKey(node.left)){
+                stack.push(node.left);
+            }else if(node.right != null && !map.containsKey(node.right)){
+                stack.push(node.right);
+            }else{
+                //process the root once left and right subtree have been processed
+                stack.pop();
+                int leftDepth = map.getOrDefault(node.left,0);
+                int rightDepth = map.getOrDefault(node.right,0);
+
+                //put the max depth at a node in the map
+                map.put(node,1 + Math.max(leftDepth,rightDepth));
+
+                //update the max diameter found so far
+                diameter = Math.max(diameter, leftDepth + rightDepth);
+            }
         }
-
-        // Recursively calculate the height of the left and right subtrees
-        int left = height(root.left,diameter);
-        int right = height(root.right,diameter);
-
-        // Update the diameter array by taking the maximum diameter that passes through the current node
-        diameter[0] = Math.max(diameter[0],left + right);
-
-        // Return the maximum depth of the current node by adding 1 to the maximum depth of its deepest subtree
-        return Math.max(left,right)+1;
+        return diameter;
     }
 }
