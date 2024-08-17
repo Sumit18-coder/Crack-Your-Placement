@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0040-combination-sum-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0088-merge-sorted-array) |
@@ -113,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -150,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
