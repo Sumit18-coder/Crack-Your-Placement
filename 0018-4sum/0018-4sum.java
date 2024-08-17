@@ -1,36 +1,56 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> l=new ArrayList<>();
-        Set<List<Integer>> s=new HashSet<>();
-        Arrays.sort(nums);
-        int n=nums.length;
-        for(int a=0;a<n;a++)
-        {
-            int b=a+1;
-            int c=b+1;
-             int d=n-1;
-            while(b<d&&b<c){
-            while(c<d)
-            {
-                long sum=(long)nums[a]+nums[b]+nums[c]+nums[d];
-                if(sum==target){
-                s.add(Arrays.asList(nums[a],nums[b],nums[c],nums[d]));
-                c++;
-                d--;
-                }
-                else if(sum<target)
-                c++;
-                else
-                d--;
-
-            }
-             b++;
-             c=b+1;
-             d=n-1;
-            }
-             
+        List<List<Integer>> result = new ArrayList<>();
+        if (nums == null || nums.length < 4) {
+            return result;
         }
-        l.addAll(s);
-        return l;
+
+        // Sort the array to apply the two-pointer technique
+        Arrays.sort(nums);
+        int n = nums.length;
+
+        for (int i = 0; i < n - 3; i++) {
+            // Skip duplicates for the first number
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
+
+            for (int j = i + 1; j < n - 2; j++) {
+                // Skip duplicates for the second number
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
+                    continue;
+                }
+
+                int left = j + 1;
+                int right = n - 1;
+
+                while (left < right) {
+                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
+
+                    if (sum == target) {
+                        result.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
+
+                        // Skip duplicates for the third number
+                        while (left < right && nums[left] == nums[left + 1]) {
+                            left++;
+                        }
+
+                        // Skip duplicates for the fourth number
+                        while (left < right && nums[right] == nums[right - 1]) {
+                            right--;
+                        }
+
+                        left++;
+                        right--;
+                    } else if (sum < target) {
+                        left++;
+                    } else {
+                        right--;
+                    }
+                }
+            }
+        }
+
+        return result;
     }
 }
