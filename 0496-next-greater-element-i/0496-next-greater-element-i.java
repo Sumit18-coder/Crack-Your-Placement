@@ -1,26 +1,37 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-         int n = nums2.length;
-        int[] ans = new int[nums1.length];
-        Stack<Integer> st = new Stack<>();
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            map.put(nums2[i], -1);
-        }
-        for (int i = 0; i < n; i++) {
-            while(!st.empty() && nums2[i] > st.peek()){
-                map.put(st.peek(),nums2[i]);
-                st.pop();
+         int[] nextGreaterElement = new int[nums2.length];
+         Stack<Integer> helperStack = new Stack<>();
+
+        // Traverse nums2 array from right to left
+        for (int i = nums2.length - 1; i >= 0; i--) {
+            int element = nums2[i];
+
+            // Remove all elements smaller than or equal to the current element
+            while (!helperStack.isEmpty() && helperStack.peek() <= element) {
+                helperStack.pop();
             }
-            st.push(nums2[i]);
+
+            // If the stack is empty, no greater element exists, otherwise the top of the stack is the next greater element
+            nextGreaterElement[i] = helperStack.isEmpty() ? -1 : helperStack.peek();
+
+            // Push the current element onto the stack
+            helperStack.push(element);
         }
-        
-        int[] ans2 = new int[nums1.length];
-        int j = 0;
-        for (int i : nums1) {
-            ans2[j] = map.getOrDefault(i, -1);
-            j++;
+
+        // Array to store the result for nums1
+        int[] result = new int[nums1.length];
+
+        // For each element in nums1, find its corresponding index in nums2 and get the next greater element
+        for (int i = 0; i < nums1.length; i++) {
+            for (int j = 0; j < nums2.length; j++) {
+                if (nums1[i] == nums2[j]) {
+                    result[i] = nextGreaterElement[j];
+                    break;
+                }
+            }
         }
-        return ans2;
+
+        return result;
     }
 }
