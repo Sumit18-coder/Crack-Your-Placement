@@ -58,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
