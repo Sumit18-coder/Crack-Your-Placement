@@ -89,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
@@ -104,6 +105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
@@ -114,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
