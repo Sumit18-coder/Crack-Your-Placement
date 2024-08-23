@@ -207,6 +207,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0572-subtree-of-another-tree) |
@@ -216,6 +217,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -225,6 +227,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0572-subtree-of-another-tree) |
@@ -292,6 +295,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0101-symmetric-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0572-subtree-of-another-tree) |
