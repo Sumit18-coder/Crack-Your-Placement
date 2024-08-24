@@ -42,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## String Matching
 |  |
 | ------- |
@@ -193,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -328,6 +332,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Design
 |  |
 | ------- |
