@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -283,6 +284,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 ## Memoization
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0101-symmetric-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
@@ -317,6 +320,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0101-symmetric-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0617-merge-two-binary-trees) |
 ## Hash Function
@@ -343,4 +347,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0232-implement-queue-using-stacks) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
