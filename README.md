@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0051-n-queens](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -291,6 +293,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 ## Memoization
