@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
@@ -81,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -106,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0141-linked-list-cycle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0560-subarray-sum-equals-k) |
@@ -172,11 +175,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -365,4 +370,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
