@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
@@ -217,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0011-container-with-most-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Backtracking
