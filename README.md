@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
@@ -148,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
@@ -241,6 +243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0040-combination-sum-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -327,6 +330,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 ## Memoization
