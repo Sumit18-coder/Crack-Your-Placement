@@ -50,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
+| [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +109,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
+| [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Prefix Sum
 |  |
@@ -249,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 ## Tree
 |  |
 | ------- |
@@ -427,4 +431,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
