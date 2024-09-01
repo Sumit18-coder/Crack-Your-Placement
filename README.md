@@ -154,6 +154,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
@@ -178,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
@@ -251,6 +253,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0077-combinations](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 ## Tree
