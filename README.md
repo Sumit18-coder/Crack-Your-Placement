@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0015-3sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0048-rotate-image) |
@@ -101,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
