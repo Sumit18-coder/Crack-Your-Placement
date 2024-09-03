@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
@@ -134,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
@@ -337,6 +339,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
