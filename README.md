@@ -229,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0232-implement-queue-using-stacks) |
@@ -285,6 +286,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
@@ -299,6 +301,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
@@ -312,6 +315,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
@@ -445,6 +449,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0303-range-sum-query-immutable) |
@@ -486,6 +491,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0341-flatten-nested-list-iterator) |
 ## Doubly-Linked List
 |  |
