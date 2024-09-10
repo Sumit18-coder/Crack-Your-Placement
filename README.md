@@ -188,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
@@ -273,6 +274,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0077-combinations](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
@@ -280,6 +282,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -300,6 +303,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -309,6 +313,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
