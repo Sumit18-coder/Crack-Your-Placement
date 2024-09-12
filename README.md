@@ -295,6 +295,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
@@ -334,6 +335,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
@@ -378,6 +380,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0143-reorder-list) |
@@ -425,6 +428,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
@@ -448,6 +452,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
