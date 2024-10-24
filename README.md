@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0078-subsets) |
@@ -170,6 +171,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0048-rotate-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0096-unique-binary-search-trees) |
