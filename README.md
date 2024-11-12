@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0143-reorder-list) |
@@ -202,6 +203,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0071-simplify-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
