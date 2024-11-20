@@ -201,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0125-valid-palindrome) |
@@ -231,6 +232,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0062-unique-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0095-unique-binary-search-trees-ii) |
