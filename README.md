@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0018-4sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
@@ -88,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
