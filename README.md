@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
@@ -185,6 +186,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0062-unique-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
