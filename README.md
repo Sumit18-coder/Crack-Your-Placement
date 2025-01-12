@@ -136,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0374-guess-number-higher-or-lower) |
@@ -638,5 +639,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
