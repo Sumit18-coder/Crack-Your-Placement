@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -110,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
@@ -128,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
@@ -144,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0278-first-bad-version](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
@@ -178,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0560-subarray-sum-equals-k) |
