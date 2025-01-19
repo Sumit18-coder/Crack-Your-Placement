@@ -90,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0018-4sum) |
@@ -227,6 +228,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0020-valid-parentheses) |
@@ -261,6 +263,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0062-unique-paths) |
