@@ -1,24 +1,28 @@
+
 class Solution {
-    public int[] arrayRankTransform(int[] arr) {
-        if (arr.length == 0) return new int[]{};
-        if (arr.length == 1) return new int[]{1};
+    public int[] arrayRankTransform(int[] a) {
+        // Use a TreeMap to automatically sort the values
+        TreeMap<Integer, Integer> map = new TreeMap<>();
 
-        int[][] temp = new int[arr.length][2];
-        for (int i = 0; i < arr.length; i++) {
-            temp[i][0] = arr[i];
-            temp[i][1] = i;
+        // Store values in the TreeMap
+        for (int val : a) {
+            map.put(val, map.getOrDefault(val, 0) + 1);
         }
 
-        Arrays.sort(temp, Comparator.comparingInt(a -> a[0]));
-
+        // Assign ranks to the values
         int rank = 1;
-        int prev = temp[0][0];
-        for (int i = 0; i < arr.length; i++) {
-            if (prev < temp[i][0]) rank++;
-            arr[temp[i][1]] = rank;
-            prev = temp[i][0];
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            map.put(entry.getKey(), rank);
+            rank++;
         }
 
-        return arr;
+        // Traverse the array and assign ranks based on the map
+        int[] ans = new int[a.length];
+        for (int i = 0; i < a.length; i++) {
+            ans[i] = map.get(a[i]);
+        }
+
+        // Return the ranks
+        return ans;
     }
 }
