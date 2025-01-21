@@ -238,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0022-generate-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0072-edit-distance) |
