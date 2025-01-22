@@ -323,6 +323,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
@@ -395,6 +396,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
@@ -442,6 +444,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
@@ -546,6 +549,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0112-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
