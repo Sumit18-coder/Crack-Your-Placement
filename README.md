@@ -88,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1791-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1791-richest-customer-wealth) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +299,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0560-subarray-sum-equals-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
