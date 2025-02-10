@@ -168,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1970-sorting-the-sentence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1970-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1970-sorting-the-sentence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1970-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |
