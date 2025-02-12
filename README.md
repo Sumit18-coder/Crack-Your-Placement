@@ -98,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1791-richest-customer-wealth) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -302,6 +303,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1970-sorting-the-sentence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1970-sorting-the-sentence) |
 ## Simulation
 |  |
