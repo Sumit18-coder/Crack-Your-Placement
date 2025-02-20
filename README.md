@@ -201,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
@@ -261,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0171-excel-sheet-column-number) |
@@ -450,6 +452,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0077-combinations](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
