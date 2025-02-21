@@ -100,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1791-richest-customer-wealth) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -208,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1873-longest-nice-substring) |
 ## Hash Table
 |  |
@@ -249,6 +251,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1256-rank-transform-of-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1873-longest-nice-substring](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1873-longest-nice-substring) |
 ## Math
@@ -321,6 +324,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1873-longest-nice-substring) |
 | [1970-sorting-the-sentence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1970-sorting-the-sentence) |
@@ -388,6 +392,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Stack
 |  |
