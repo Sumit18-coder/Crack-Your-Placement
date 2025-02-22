@@ -208,6 +208,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
+| [0899-binary-gap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0899-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
