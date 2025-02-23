@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
@@ -204,6 +205,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0078-subsets](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
