@@ -210,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0191-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
@@ -282,6 +283,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0171-excel-sheet-column-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
+| [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0445-add-two-numbers-ii) |
@@ -641,6 +643,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0203-remove-linked-list-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
