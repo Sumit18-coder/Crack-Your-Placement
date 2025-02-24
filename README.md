@@ -283,6 +283,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0171-excel-sheet-column-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
+| [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
@@ -643,6 +644,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0203-remove-linked-list-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
