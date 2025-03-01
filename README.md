@@ -291,6 +291,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
@@ -330,6 +331,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0171-excel-sheet-column-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
@@ -382,6 +384,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
@@ -653,6 +656,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -665,6 +669,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0206-reverse-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
