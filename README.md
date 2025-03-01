@@ -335,6 +335,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0242-valid-anagram](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
@@ -443,6 +444,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0232-implement-queue-using-stacks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
@@ -672,6 +674,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
 ## Depth-First Search
 |  |
