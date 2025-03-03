@@ -292,6 +292,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
@@ -386,6 +387,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
@@ -726,6 +728,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0199-binary-tree-right-side-view](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0530-minimum-absolute-difference-in-bst) |
