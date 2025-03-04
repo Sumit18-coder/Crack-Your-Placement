@@ -305,6 +305,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## String
 |  |
 | ------- |
@@ -483,6 +484,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -678,6 +680,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Depth-First Search
 |  |
 | ------- |
