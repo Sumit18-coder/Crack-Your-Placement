@@ -352,6 +352,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -366,6 +367,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -680,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Depth-First Search
 |  |
