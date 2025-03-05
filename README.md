@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0540-single-element-in-a-sorted-array) |
@@ -394,6 +395,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0943-sum-of-subarray-minimums) |
@@ -507,6 +509,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1160-letter-tile-possibilities) |
