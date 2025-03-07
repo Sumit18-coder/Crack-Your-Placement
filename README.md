@@ -786,12 +786,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0303-range-sum-query-immutable](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0341-flatten-nested-list-iterator) |
 | [0937-online-stock-span](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0341-flatten-nested-list-iterator) |
+| [0969-number-of-recent-calls](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0969-number-of-recent-calls) |
 ## Union Find
 |  |
 | ------- |
@@ -821,6 +823,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0969-number-of-recent-calls) |
 ## Iterator
 |  |
 | ------- |
