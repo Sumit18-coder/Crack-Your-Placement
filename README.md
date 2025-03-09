@@ -70,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0414-third-maximum-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0485-max-consecutive-ones) |
@@ -196,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -457,6 +459,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -625,6 +628,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 ## Linked List
 |  |
@@ -774,6 +778,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0937-online-stock-span) |
