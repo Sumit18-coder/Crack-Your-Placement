@@ -567,6 +567,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
+| [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -618,6 +619,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0662-maximum-width-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
+| [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -745,6 +747,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0813-all-paths-from-source-to-target](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
+| [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
 |  |
@@ -771,6 +774,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0733-flood-fill](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
 ## Hash Function
 |  |
 | ------- |
@@ -822,6 +826,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
+| [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -875,6 +880,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0133-clone-graph](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0133-clone-graph) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0813-all-paths-from-source-to-target) |
+| [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
 ## Counting Sort
 |  |
 | ------- |
