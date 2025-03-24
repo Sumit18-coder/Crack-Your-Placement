@@ -564,6 +564,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0617-merge-two-binary-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0687-longest-univalue-path) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
@@ -617,6 +618,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0617-merge-two-binary-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0687-longest-univalue-path) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 | [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
@@ -742,6 +744,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0617-merge-two-binary-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0813-all-paths-from-source-to-target) |
