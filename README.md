@@ -571,6 +571,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 | [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
+| [1484-linked-list-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1484-linked-list-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -626,6 +627,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 | [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
+| [1484-linked-list-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1484-linked-list-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
@@ -676,6 +678,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0445-add-two-numbers-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1484-linked-list-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1484-linked-list-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -756,6 +759,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0975-range-sum-of-bst) |
 | [1275-validate-binary-tree-nodes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1275-validate-binary-tree-nodes) |
+| [1484-linked-list-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1484-linked-list-in-binary-tree) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
