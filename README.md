@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
@@ -148,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
@@ -314,6 +316,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0096-unique-binary-search-trees](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0231-power-of-two) |
