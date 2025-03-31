@@ -56,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
@@ -146,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
@@ -208,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0035-search-insert-position](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0315-count-of-smaller-numbers-after-self) |
