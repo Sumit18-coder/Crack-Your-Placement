@@ -81,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
@@ -160,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
@@ -193,6 +195,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0414-third-maximum-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0924-fair-candy-swap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0924-fair-candy-swap) |
@@ -225,6 +228,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0374-guess-number-higher-or-lower](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0718-maximum-length-of-repeated-subarray) |
