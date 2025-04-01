@@ -158,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -374,6 +375,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0344-reverse-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0409-longest-palindrome) |
@@ -436,6 +438,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
