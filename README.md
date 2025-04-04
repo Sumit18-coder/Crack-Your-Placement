@@ -290,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -382,6 +383,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
