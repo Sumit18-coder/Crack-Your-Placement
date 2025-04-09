@@ -65,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
@@ -456,6 +457,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
@@ -759,6 +761,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0079-word-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0733-flood-fill) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
