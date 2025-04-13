@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
@@ -463,6 +464,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0279-perfect-squares) |
