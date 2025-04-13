@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0137-single-number-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
@@ -227,6 +228,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0035-search-insert-position](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
