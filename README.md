@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0073-set-matrix-zeroes) |
