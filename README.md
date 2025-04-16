@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
