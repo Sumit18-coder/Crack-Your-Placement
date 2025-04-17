@@ -77,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0228-summary-ranges](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
@@ -271,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0187-repeated-dna-sequences](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
