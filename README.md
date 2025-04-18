@@ -89,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
@@ -210,6 +211,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
@@ -250,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0475-heaters) |
@@ -788,6 +791,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0733-flood-fill) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -948,6 +952,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
