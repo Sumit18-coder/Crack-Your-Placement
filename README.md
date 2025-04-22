@@ -82,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0283-move-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0303-range-sum-query-immutable) |
+| [0313-super-ugly-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0324-wiggle-sort-ii) |
@@ -374,6 +375,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0231-power-of-two](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
@@ -496,6 +498,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0368-largest-divisible-subset) |
