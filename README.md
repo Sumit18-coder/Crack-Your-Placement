@@ -189,6 +189,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -391,6 +392,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0556-next-greater-element-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
@@ -448,6 +450,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0657-robot-return-to-origin) |
