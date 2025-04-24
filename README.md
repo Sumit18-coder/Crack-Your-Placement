@@ -108,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0654-maximum-binary-tree) |
@@ -192,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0556-next-greater-element-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
@@ -232,6 +234,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0658-find-k-closest-elements) |
@@ -585,6 +588,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0445-add-two-numbers-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
@@ -623,6 +627,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -952,6 +957,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0937-online-stock-span) |
