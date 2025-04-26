@@ -118,6 +118,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0735-asteroid-collision](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 | [0924-fair-candy-swap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0924-fair-candy-swap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0943-sum-of-subarray-minimums) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -200,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
+| [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0961-long-pressed-name) |
 | [1080-camelcase-matching](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1080-camelcase-matching) |
@@ -529,6 +531,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -1070,6 +1073,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
