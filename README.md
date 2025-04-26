@@ -198,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0961-long-pressed-name) |
@@ -354,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0567-permutation-in-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0924-fair-candy-swap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0924-fair-candy-swap) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -461,6 +463,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0567-permutation-in-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1078-remove-outermost-parentheses) |
@@ -633,6 +636,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0768-partition-labels) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
