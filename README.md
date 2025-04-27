@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0368-largest-divisible-subset](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
@@ -231,6 +232,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -275,6 +277,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0475-heaters) |
