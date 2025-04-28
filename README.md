@@ -447,6 +447,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0242-valid-anagram](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
@@ -666,6 +667,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0131-palindrome-partitioning](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0813-all-paths-from-source-to-target) |
