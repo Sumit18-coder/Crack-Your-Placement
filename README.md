@@ -399,6 +399,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0313-super-ugly-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0441-arranging-coins) |
@@ -529,6 +530,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0313-super-ugly-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0474-ones-and-zeroes) |
@@ -669,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0813-all-paths-from-source-to-target) |
