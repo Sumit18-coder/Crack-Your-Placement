@@ -364,6 +364,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0913-random-flip-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0913-random-flip-matrix) |
 | [0924-fair-candy-swap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0924-fair-candy-swap) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1160-letter-tile-possibilities) |
@@ -411,6 +412,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0913-random-flip-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1093,4 +1095,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0204-count-primes) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0913-random-flip-matrix) |
+## Randomized
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0913-random-flip-matrix) |
 <!---LeetCode Topics End-->
