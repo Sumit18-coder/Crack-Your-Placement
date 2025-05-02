@@ -381,6 +381,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0062-unique-paths) |
@@ -430,6 +431,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0020-valid-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
@@ -498,6 +500,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0657-robot-return-to-origin) |
