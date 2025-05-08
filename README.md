@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0037-sudoku-solver](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0047-permutations-ii) |
@@ -161,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0027-remove-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -512,6 +514,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0062-unique-paths) |
@@ -592,6 +595,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0094-binary-tree-inorder-traversal) |
@@ -983,6 +987,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0456-132-pattern) |
