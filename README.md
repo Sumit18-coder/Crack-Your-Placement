@@ -106,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
@@ -241,6 +242,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0455-assign-cookies](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1034,6 +1036,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0658-find-k-closest-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
