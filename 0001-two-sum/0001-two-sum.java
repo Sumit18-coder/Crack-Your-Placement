@@ -1,27 +1,16 @@
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        
-            int len = numbers.length;
-
-        int[] result = new int[2] ;
-        int number1 = 0;
-        int sum = 0;
-
+    public int[] twoSum(int[] nums, int target) {
+        int len = nums.length;
+        int[] res = new int[2];
         for (int i = 0; i < len; i++) {
-            number1 = numbers[i];
-
-            for(int j = i+1; j < len; j++)
-            {
-
-                sum = number1+numbers[j];       
-                if(sum == target)
-                {
-                    result[0]=i;
-                    result[1]=j;
+            for (int j = i + 1; j < len; j++) {
+                if (nums[i] + nums[j] == target) {
+                    res[0] = i;
+                    res[1] = j;
+                    return res; // Return as soon as the pair is found
                 }
             }
-        
         }
-        return result;
+        return res; // In case no solution is found
     }
 }
