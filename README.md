@@ -75,6 +75,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0228-summary-ranges) |
@@ -228,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0324-wiggle-sort-ii) |
@@ -349,6 +351,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0290-word-pattern) |
