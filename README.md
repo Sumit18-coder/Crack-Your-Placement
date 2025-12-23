@@ -1126,4 +1126,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0913-random-flip-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0913-random-flip-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
