@@ -495,6 +495,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1078-remove-outermost-parentheses](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1080-camelcase-matching) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1250-longest-common-subsequence) |
@@ -562,6 +563,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1143-longest-common-subsequence) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
