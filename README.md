@@ -145,6 +145,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1672-richest-customer-wealth) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -884,6 +885,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0733-flood-fill](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0733-flood-fill) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1791-richest-customer-wealth) |
 ## Memoization
 |  |
