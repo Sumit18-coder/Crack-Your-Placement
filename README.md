@@ -139,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1470-shuffle-the-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1480-running-sum-of-1d-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1497-design-a-stack-with-increment-operation) |
