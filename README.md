@@ -143,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1480-running-sum-of-1d-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1512-number-of-good-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -387,6 +388,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1256-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1512-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -436,6 +438,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1512-number-of-good-pairs) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## String
 |  |
@@ -614,6 +617,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1512-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Stack
