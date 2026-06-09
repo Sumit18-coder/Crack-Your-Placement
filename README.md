@@ -137,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1256-rank-transform-of-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1306-minimum-absolute-difference) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1470-shuffle-the-array) |
@@ -265,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1217-relative-sort-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1306-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -388,6 +390,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1512-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1125,6 +1128,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0274-h-index](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1217-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Radix Sort
 |  |
 | ------- |
