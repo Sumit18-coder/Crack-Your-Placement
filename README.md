@@ -138,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1306-minimum-absolute-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1306-minimum-absolute-difference) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1470-shuffle-the-array) |
@@ -532,6 +533,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0657-robot-return-to-origin](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1389-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1929-concatenation-of-array) |
