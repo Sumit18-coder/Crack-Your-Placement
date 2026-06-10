@@ -152,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1672-richest-customer-wealth) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1732-find-the-highest-altitude](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1773-count-items-matching-a-rule](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -598,6 +599,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1732-find-the-highest-altitude) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Divide and Conquer
 |  |
