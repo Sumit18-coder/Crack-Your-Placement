@@ -153,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1672-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1672-richest-customer-wealth) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1773-count-items-matching-a-rule](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1791-richest-customer-wealth) |
@@ -519,6 +520,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1651-shuffle-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1773-count-items-matching-a-rule](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1823-determine-if-string-halves-are-alike) |
