@@ -126,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0735-asteroid-collision](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 | [0924-fair-candy-swap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0924-fair-candy-swap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0943-sum-of-subarray-minimums) |
@@ -219,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0658-find-k-closest-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0768-partition-labels) |
+| [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0908-middle-of-the-linked-list) |
@@ -335,6 +337,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0526-beautiful-arrangement](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
 | [0899-binary-gap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0899-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -537,6 +540,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0067-add-binary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1389-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -905,6 +909,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1672-richest-customer-wealth) |
