@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1137-height-checker](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1217-relative-sort-array) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1306-minimum-absolute-difference) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
@@ -445,6 +446,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0913-random-flip-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1013-fibonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -542,6 +544,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0735-asteroid-collision](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1389-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1920-build-array-from-permutation) |
