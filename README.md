@@ -127,6 +127,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0739-daily-temperatures](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0792-binary-search) |
 | [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0867-transpose-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0875-longest-mountain-in-array) |
 | [0924-fair-candy-swap](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0924-fair-candy-swap) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0943-sum-of-subarray-minimums) |
@@ -545,6 +546,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0657-robot-return-to-origin](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0874-backspace-string-compare) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1389-create-target-array-in-the-given-order) |
@@ -915,6 +917,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0867-transpose-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1672-richest-customer-wealth) |
