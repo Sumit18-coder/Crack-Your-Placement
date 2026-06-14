@@ -163,6 +163,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1791-richest-customer-wealth) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1929-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -922,6 +923,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1791-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Memoization
 |  |
 | ------- |
