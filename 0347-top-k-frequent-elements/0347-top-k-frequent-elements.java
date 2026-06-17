@@ -1,27 +1,33 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-         List<Integer>[] bucket = new List[nums.length + 1];
-    Map<Integer, Integer> frequencyMap = new HashMap<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int num : nums){
+                 map.put(num,map.getOrDefault(num,0) + 1);
+        }
+        List<Integer>[] bucket = new List[nums.length + 1];
+        for(int key : map.keySet()){
+            int freq = map.get(key);
 
-    for (int n : nums) {
-      frequencyMap.put(n, frequencyMap.getOrDefault(n, 0) + 1);
-    }
+            if(bucket[freq] == null){
+                bucket[freq] = new ArrayList<>();
+            }
 
-    for (int key : frequencyMap.keySet()) {
-      int frequency = frequencyMap.get(key);
-      if (bucket[frequency] == null) {
-        bucket[frequency] = new ArrayList<>();
-      }
-      bucket[frequency].add(key);
-    }
+            bucket[freq].add(key);
+        }
+        int[] result = new int[k];
+        int index = 0;
 
-    List<Integer> topK = new ArrayList<>();
-    for (int pos = bucket.length - 1;pos >= 0 && topK.size() < k; pos--) {
-      if (bucket[pos] != null) {
-        topK.addAll(bucket[pos]);
-      }
-    }
+        for(int i = bucket.length - 1; i >= 0 && index < k ; i--){
+            if(bucket[i] != null){
+                for(int num : bucket[i]){
+                    result[index++] = num;
 
-    return topK.stream().mapToInt(i -> i).toArray();
+                    if(index == k){
+                        return result;
+                    }
+                }
+            }
+        }
+        return result;
     }
 }
