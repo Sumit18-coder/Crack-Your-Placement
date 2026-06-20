@@ -1180,4 +1180,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0176-second-highest-salary) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
