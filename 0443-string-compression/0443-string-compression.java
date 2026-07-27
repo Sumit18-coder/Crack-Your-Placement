@@ -1,16 +1,16 @@
 class Solution {
     public int compress(char[] chars) {
-        int index = 0;//pos to write
-        int i = 0;//pos to read
+        int i = 0;//pointer for curr array will read
+        int index = 0;//pointer for new array will write
         while(i < chars.length){
             char current = chars[i];
             int count = 0;
-            //count consective characters
+            //check if next eleis same 
             while(i < chars.length && chars[i] == current){
                 count++;
                 i++;
             }
-            //write the character
+            //update the array
             chars[index++] = current;
 
             if(count > 1){
