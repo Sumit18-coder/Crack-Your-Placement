@@ -384,6 +384,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0349-intersection-of-two-arrays](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0409-longest-palindrome) |
@@ -502,6 +503,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0344-reverse-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0394-decode-string) |
@@ -643,6 +645,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/1160-letter-tile-possibilities) |
@@ -1085,6 +1088,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0225-implement-stack-using-queues](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/Sumit18-coder/Crack-Your-Placement/tree/master/0969-number-of-recent-calls) |
 ## Union Find
 |  |
