@@ -1,20 +1,23 @@
 class Solution {
     public String frequencySort(String s) {
-        HashMap<Character,Integer> freq = new HashMap<>();
-        for(char str : s.toCharArray()){
-            freq.put(str,freq.getOrDefault(str,0) + 1);
+        HashMap<Character,Integer> map = new HashMap<>();
+        for(char ch : s.toCharArray()){
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
-        //build a maxHeap based on freq
-        PriorityQueue<Character> maxHeap = new PriorityQueue<>(
-            (a,b) -> freq.get(b) - freq.get(a)
+        PriorityQueue<Character> pq = new PriorityQueue<>(
+            (a, b) -> map.get(b) - map.get(a)
         );
-        maxHeap.addAll(freq.keySet());
+        pq.addAll(map.keySet());
+        StringBuilder ans = new StringBuilder();
 
-        StringBuilder result = new StringBuilder();
-        while(!maxHeap.isEmpty()){
-            char c = maxHeap.poll();
-            result.append(String.valueOf(c).repeat(freq.get(c)));
+        while(!pq.isEmpty()){
+            char ch = pq.poll();
+            int freq = map.get(ch);
+
+            while(freq-- > 0){
+                ans.append(ch);
+            }
         }
-        return result.toString();
+        return ans.toString();
     }
 }
